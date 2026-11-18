@@ -174,12 +174,17 @@ These coefficients describe model relationships, not causal effects or standalon
 
 ## Visualisations
 
-The project includes:
+### Matchweek 11 — Probability Distribution
 
-- Match outcome probability distributions
-- Match confidence classification
-- Logistic Regression coefficient heatmap
-- Match-level forecasting tables
+![EPL Matchweek 11 Probability Distribution](images/mw11_probability_distribution.png)
+
+### Matchweek 11 — Forecast Infographic
+
+![EPL Matchweek 11 Forecast Infographic](images/mw11_probability_infographic.png)
+
+### Logistic Regression — Feature Coefficients
+
+![Feature Coefficient Heatmap](images/feature_coefficient_heatmap.png)
 
 ## Technology Stack
 
