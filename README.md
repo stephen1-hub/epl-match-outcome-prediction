@@ -14,6 +14,14 @@ Using historical Premier League data from the 2018/19 to 2025/26 seasons, the pr
 
 The objective is not simply to predict winners, but to quantify uncertainty and understand the factors influencing each prediction.
 
+## Explore the Analysis
+
+The complete Matchweek 11 forecasting workflow is available in the Jupyter Notebook:
+
+📓 [05 — Matchweek 11 Forecasting](notebooks/05_matchweek_11_forecasting.ipynb)
+
+The notebook covers data preparation, Elo ratings, feature engineering, model evaluation, probability forecasting and model interpretation.
+
 ## Project Objectives
 
 - Build a historical EPL match dataset covering eight seasons.
