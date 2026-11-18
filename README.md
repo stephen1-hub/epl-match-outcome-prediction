@@ -18,7 +18,7 @@ The objective is not simply to predict winners, but to quantify uncertainty and 
 
 The complete Matchweek 11 forecasting workflow is available in the Jupyter Notebook:
 
-https://github.com/stephen1-hub/epl-match-outcome-prediction/blob/main/05_matchweek_11_forecasting.ipynb
+📓 [05 — Matchweek 11 Forecasting](notebooks/05_matchweek_11_forecasting.ipynb)
 
 The notebook covers data preparation, Elo ratings, feature engineering, model evaluation, probability forecasting and model interpretation.
 
